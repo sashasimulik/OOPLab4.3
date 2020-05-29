@@ -11,7 +11,7 @@ namespace OOPLab4._3
 			private string number = "Введiть данi";
 			private string nametag = "Введiть даннi для заповнення";
 			private string make = "Введiть даннi для заповнення";
-			private string price = "Введiть даннi для заповнення";
+			private string price = "Введiть даннi для заповнення ";
 			private string quantity = "Введiть даннi для заповнення";
 
 			public Note()
